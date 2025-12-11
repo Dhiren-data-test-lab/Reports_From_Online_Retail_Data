@@ -207,4 +207,6 @@ Transparent reporting assumptions
 
 Clear communication with non-technical stakeholders
 
-It reflects how real professional data work is actually done — not just how charts are drawn.
+It reflects how I approach real professional data work —
+not just how charts are drawn.
+
