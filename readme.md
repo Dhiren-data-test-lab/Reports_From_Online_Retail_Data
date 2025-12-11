@@ -13,8 +13,7 @@ This project uses a 2,000‑row sample from the Online Retail dataset to create 
 
 The goal is to show how real professional reporting is done — from raw messy data to polished deliverables.
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
@@ -49,9 +48,7 @@ reports_from_Online_Retail_Data/
 │
 └── README.md
 ```
-
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
@@ -65,8 +62,8 @@ Outputs:
 - `raw_samples_2000_cleaned.csv`
 - `raw_samples_2000_uncleaned.csv`
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
@@ -81,8 +78,7 @@ Each report is saved as:
 - CSV (for analysis)
 - PNG charts (for business review)
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
@@ -92,9 +88,7 @@ All reports are consolidated into **client_sales_report.xlsx**:
 - Filters enabled
 - Clean layout for business users
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
-
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 ---
 
 ## 📑 Step 4: Consolidated PDF Report
@@ -107,9 +101,7 @@ The PDF includes:
 
 This is the same file provided to clients.
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
-
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 ---
 
 ## 🧩 Source Code Previews
@@ -121,9 +113,7 @@ Instead, masked preview images show:
 
 This maintains transparency while protecting proprietary logic.
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
-
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 ---
 
 ## 🎯 Intended Audience
@@ -132,8 +122,7 @@ This project is designed for:
 - WFH opportunities
 - Recruiters evaluating practical Python‑based reporting skills
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
@@ -144,8 +133,7 @@ All client-facing deliverables are transparent.
 
 This reflects how **I** approach real professional data work — not just how charts are drawn.
 
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
 ---
 
