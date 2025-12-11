@@ -155,8 +155,5 @@ This repository demonstrates:
 - Clean structuring
 - Professional presentation-quality outputs
 
-If you can explain this project clearly, you can confidently handle real client data.
-
-### 📄 View Final Project Report (PDF)
-[📥 **Download Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
+[📥 **View Final Project Report (PDF)**](./reports_outputs/final_project_report.pdf)
 
